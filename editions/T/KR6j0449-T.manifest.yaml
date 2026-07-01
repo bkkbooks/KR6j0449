@@ -1,0 +1,68 @@
+canonical_identifier: bkk:krp/KR6j0449/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0449/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 聖迦抳忿怒金剛童子菩薩成就儀軌經
+  identifiers:
+    krp: KR6j0449
+    cbeta: T21n1222a
+    cbeta_old_id: T21n1222a
+    authorityid: CA0002975a
+    json_key: T1222a
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1222a.xml
+    old_id: T21n1222a
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0449_000-T.yaml, hash: 'sha256:729f653883f8d0f53f5ccda68f93eba5605688a357c28eff77a2b3cdff290130'}
+  - {seq: 1, filename: KR6j0449_001-T.yaml, hash: 'sha256:84997a0012df065d68a6d2ef6ca02948da87f7ff04774e842d0bc444d47192a5'}
+  - {seq: 2, filename: KR6j0449_002-T.yaml, hash: 'sha256:907c9f6227baa2b93a2ca933767557c4205e0c19994ba327b1b824f44954f18d'}
+  - {seq: 3, filename: KR6j0449_003-T.yaml, hash: 'sha256:082ed51f646c9b595b191d8f60f4267894cdbe0bcebdd61b9d636a4f23409827'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0449_000-T.markers.yaml, hash: 'sha256:7471a847b191066ce609f2d4df1a0a4ec560e5eb72b1bfed8d402324c59a33db'}
+  - {seq: 1, role: markers, filename: assets/KR6j0449_001-T.markers.yaml, hash: 'sha256:7d18ddcd475b8a93b55c52936bf3864b8823e12a9e26a48ea31c21eb412c9b3c'}
+  - {seq: 2, role: markers, filename: assets/KR6j0449_002-T.markers.yaml, hash: 'sha256:6d80d626123f5fe9f242000c088710fe86c92c4e9db3d753a948a9e444a8734f'}
+  - {seq: 3, role: markers, filename: assets/KR6j0449_003-T.markers.yaml, hash: 'sha256:5c6fc72a69cbd26722b81ebae62afd7e87fc13809fb14318d313f8e94a98b495'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0449_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7249
+  label: '聖迦抳忿怒金剛童子菩薩成就
+
+    儀軌經卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0449_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7917
+  label: '聖迦抳忿怒金剛童子菩薩成就
+
+    儀軌經卷中'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0449_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 4907
+  label: '聖迦抳忿怒金剛童子菩薩成就
+
+    儀軌經卷下'
+  type: juan
+  level: 1
+hash: sha256:a1a219dc8cdc732aa13ad56c9508373019ac4a9203dddf1dcf606aad73626c98
