@@ -34,13 +34,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0449_000.yaml, hash: 'sha256:729f653883f8d0f53f5ccda68f93eba5605688a357c28eff77a2b3cdff290130'}
-  - {seq: 1, filename: KR6j0449_001.yaml, hash: 'sha256:c2ac2ca97abb0a32be21cccf10cff2b1d55918c6387a243801d5c61e55b4f55a'}
-  - {seq: 2, filename: KR6j0449_002.yaml, hash: 'sha256:7b01c99efe1d64f92c4c71125b1481c11ec48cfacfcd7cd5b1d1657708dd8f01'}
-  - {seq: 3, filename: KR6j0449_003.yaml, hash: 'sha256:c013864b3b6014e6d0b76b2d9341873bed9fd5af081396951d7d1784cd7e11f6'}
+  - {seq: 1, filename: KR6j0449_001.yaml, hash: 'sha256:84997a0012df065d68a6d2ef6ca02948da87f7ff04774e842d0bc444d47192a5'}
+  - {seq: 2, filename: KR6j0449_002.yaml, hash: 'sha256:907c9f6227baa2b93a2ca933767557c4205e0c19994ba327b1b824f44954f18d'}
+  - {seq: 3, filename: KR6j0449_003.yaml, hash: 'sha256:082ed51f646c9b595b191d8f60f4267894cdbe0bcebdd61b9d636a4f23409827'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0449_001.markers.yaml, hash: 'sha256:faa1c1ced259ca57bea6c824f12e9c007b621281dfe6817814167b6c2fe69b06'}
-  - {seq: 2, role: markers, filename: assets/KR6j0449_002.markers.yaml, hash: 'sha256:f697531dd921d8603b9625a34cfc8ddc587c7852ddd345e569e7818d9c758297'}
-  - {seq: 3, role: markers, filename: assets/KR6j0449_003.markers.yaml, hash: 'sha256:ea568ce71d897503ecd5225915edf7004aa390195595474161fd175c09d444d2'}
+  - {seq: 0, role: markers, filename: assets/KR6j0449_000.markers.yaml, hash: 'sha256:3c66645924157572e5a6ad92f1f40c7dfa65089d545a96d318628d10e56a7594'}
+  - {seq: 1, role: markers, filename: assets/KR6j0449_001.markers.yaml, hash: 'sha256:e6786a82f1af7a9a06e82b2645b9937c4fda297197db00e587516e343104759d'}
+  - {seq: 2, role: markers, filename: assets/KR6j0449_002.markers.yaml, hash: 'sha256:c64b6d792fc3cf12cf50c88476a88ee66cb7edc891071609b4457e0a53173294'}
+  - {seq: 3, role: markers, filename: assets/KR6j0449_003.markers.yaml, hash: 'sha256:ec482c554e9a789043e687a8559c4f9a09b222c6c6a25dc038080187f1b209ea'}
 table_of_contents:
 - ref:
     seq: 1
@@ -78,7 +79,4 @@ table_of_contents:
     儀軌經卷下'
   type: juan
   level: 1
-hash: sha256:cdacd0114e728ef6e63dc6157feded1680a2c01ad1f4b1c764960be825e5b809
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:01facec36218646c7699eb076dba6deb79a27c1b0a8076c48a4477ab44c2219e
